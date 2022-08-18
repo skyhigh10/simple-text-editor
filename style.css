@@ -1,0 +1,38 @@
+.constrols{
+    display: flex;
+    justify-content: space-between;
+}
+
+.control-btn-container{
+    display: flex;
+}
+
+.constrol-btn{
+    margin-left: 8px;
+    width: 50px;
+    height: 100%;
+}
+
+.main-control{
+    display: flex;
+}
+
+#filename-input{
+
+    margin-left: 10px;
+}
+
+#content{
+    padding: 20px;
+    box-shadow: 0 0 5px 0;
+    outline: none;
+    min-height: 300px;
+    margin: 20px;
+}
+
+#title{
+    padding: 10px 0;
+    border-bottom: 2px solid seashell;
+    margin-bottom: 10px;
+}
+
